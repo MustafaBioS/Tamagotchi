@@ -19,14 +19,14 @@ To make this project you need this list of components:
 | `Buzzer` | $1.35 | [Link](https://www.amazon.eg/Generic-Buzzer-12V/dp/B0CTR4D3D8/ref=sr_1_3_sspa?crid=2S8GPSAVCHADG&dib=eyJ2IjoiMSJ9.GwPYCF1zc17ac8eycWyPMEF3Un_ajQwD5sjKKLu3Am5CQ_gBVTRLajpZKlUfODKVrzJj-qYdCdOZINcWmIIolV8oO0tVfo4ANUjGOhx2_q5HPfY2N7lN685v210-g8KP_5NM1OBZcTP-6y2yspTxe-sFJzpGq7550vWisvKCDh7-TeZsugEpMwgjMkCbTam-QJ4zmBi72-zAb8_Z7tQ5mSVaw97bInUBGsXVPJMmgzVZuh1L8iQ1iUtfuBy4NIJEYeyx3en6uiDthCmkc6doR-LIl-9z8jh5FWLyZRhSG4I.6Cmt1wJeu-1gBT5GTEcEJgYaOfVTcyr6Ig_0SSJoygk&dib_tag=se&keywords=buzzer&qid=1781445439&sprefix=buzzer%2Caps%2C205&sr=8-3-spons&aref=AaGWQyJukU&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
 | `Battery` | $1.16 | [Link](https://www.amazon.eg/-/en/Camelion-Super-Heavy-Carbon-Batteries/dp/B0CXJGDGF4/ref=sr_1_4?crid=1UD0ST73WHL95&dib=eyJ2IjoiMSJ9.k6im0orxu-MB0ffgZeC9XmejlDjUzQD9mynMhOZhcJTmR7eVImN4Qt0d7G3nx06kf_CDwNei4m-hgi8Ad801SjkaWttEluOy_c_1Viy9o9acG8ucwB3qxelNl2EI9l2DwEy9-6lb93ziDz-83cUn_CB9vFG6Pbm2QG6zZAbE9pkreXjdOm1rbSYlAx_OVHDxmz2HjOcjY3EQrRK9GnCSz3e2AMlAbZx-Fu6OZhabNul-qm5Q72b-epEP-B0a0Yl8zfM5ftJtUIKEBzqwp7MB41Ziqri_dxKp3xsEqrHUJrs.4dIyCAQ33KMNbDifUoAFL55ZA1AELARmvQ9z91sg8F8&dib_tag=se&keywords=Battery+cell&qid=1781445589&sprefix=battery+cel%2Caps%2C179&sr=8-4) |
 
-# [PCB](https://github.com/MustafaBioS/Tamagotchi/blob/main/hardware/Tamagotchi.kicad_pcb), [Schematic](https://github.com/MustafaBioS/Tamagotchi/blob/main/hardware/Tamagotchi.kicad_sch), and [Zine](https://github.com/MustafaBioS/Tamagotchi/blob/main/docs/Zine)
+# PCB, Schematic, and Zine
 
-## PCB
+## [PCB](https://github.com/MustafaBioS/Tamagotchi/blob/main/hardware/Tamagotchi.kicad_pcb)
 <img width="1271" height="861" alt="image" src="https://github.com/user-attachments/assets/98ab3213-581c-455c-9663-170a18ea8930" />
 <img width="905" height="575" alt="image" src="https://github.com/user-attachments/assets/1ccabcf3-20b5-477b-9ee5-23a31744ea4b" />
 
-## Schematic
+## [Schematic](https://github.com/MustafaBioS/Tamagotchi/blob/main/hardware/Tamagotchi.kicad_sch)
 <img width="1453" height="857" alt="image" src="https://github.com/user-attachments/assets/1d839e58-ee6a-470c-8bf1-889c1df4367d" />
 
-## Zine
+## [Zine](https://github.com/MustafaBioS/Tamagotchi/blob/main/docs/Zine)
 <img width="420" height="595" alt="A5 - 2" src="https://github.com/user-attachments/assets/656fcfdd-8226-46b3-807a-3c4c24d7e1bd" />
